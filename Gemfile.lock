@@ -211,8 +211,8 @@ DEPENDENCIES
   bootsnap (>= 1.4.2)
   byebug
   capybara (>= 2.15)
-  graphiql-rails
-  graphql
+  graphiql-rails (~> 1.7)
+  graphql (~> 1.12)
   jbuilder (~> 2.7)
   listen (~> 3.2)
   pg (>= 0.18, < 2.0)
